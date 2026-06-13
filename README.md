@@ -12,9 +12,9 @@ git clone apt -get install python
 
 pkg install git -y
 
-git clone https://github.com/Pinina9/Lista.git
+git clone https://github.com/LuchoBin/CrearCombo
 
-cd Lista
+cd CrearCombo
 
 ls
 
