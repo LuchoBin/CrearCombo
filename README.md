@@ -18,6 +18,6 @@ cd CrearCombo
 
 ls
 
-chmod +x Lista.sh
+chmod +x CrearCombo.sh
 
-./Lista.sh
+./CrearCombo.sh
